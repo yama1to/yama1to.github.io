@@ -1,0 +1,63 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Yamato Sakino
+    - name: Languages
+      value: Japanese (native), English (professional)
+    - name: Location
+      value: Yokohama, Japan
+
+- title: Education
+  type: time_table
+  contents:
+    - title: "M.S. in Systems Information Science"
+      institution: "Future University Hakodate (公立はこだて未来大学), Graduate School of Systems Information Science"
+      year: "2022–2024"
+      description:
+        - "Thesis: 超立方体上の擬似ビリヤードダイナミクスに基づくレザバー計算の性能評価 (Benchmarks for reservoir computing based on pseudo-billiard dynamics in hypercube)"
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Research Engineer
+      institution: R&D Division, Nissan Motor Corporation
+      year: "2024–present"
+
+- title: Research Interests
+  type: nested_list
+  contents:
+    - title: Large Language Models
+      items:
+        - Hierarchical abstraction and composition of internal representations
+        - Activation steering and its failure modes
+        - Cross-domain transfer of learned representations
+    - title: Reservoir Computing
+      items:
+        - Chaotic Boltzmann machine reservoirs
+        - Edge-of-chaos computation and timescale separation
+        - FPGA implementation of recurrent dynamical systems
+    - title: Reinforcement Learning
+      items:
+        - Reservoir-based function approximators for RL agents
+        - Dynamics-informed policy representations
+
+- title: Publications
+  type: list
+  contents:
+    - See <a href="/publications/">Publications</a> page (auto-generated from BibTeX).
+
+- title: Skills
+  type: nested_list
+  contents:
+    - title: Programming
+      items:
+        - Python (PyTorch, NumPy, JAX)
+    - title: Tools
+      items:
+        - Git, Linux, LaTeX
+
+- title: Other Interests
+  type: list
+  contents:
+    - "Foundations of intelligence; AI–human partnership for investigating questions about the universe, consciousness, and understanding."
