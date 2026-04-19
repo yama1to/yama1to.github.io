@@ -32,6 +32,4 @@ My background is in **reservoir computing (RC)**, **reinforcement learning**, an
 
 I'm currently interested in bringing the RC perspective — structured dynamics, timescale separation, edge-of-chaos computation — into **large language models**. My recent focus is on how representations inside LLMs can be hierarchically abstracted, composed, and transferred across domains, and on what fails when we try to steer them directly.
 
-More broadly, I care about the foundations of intelligence and the kind of AI–human partnership that could help us investigate questions about the universe, consciousness, and what it means to understand.
-
 <sub>Opinions on this site are my own and do not represent my employer.</sub>
